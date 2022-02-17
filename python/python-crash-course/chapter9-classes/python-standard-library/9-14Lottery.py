@@ -54,24 +54,3 @@ ticket_ganador = premioMayor(lotteryWins)
 print(f"El ticket_ganador es {ticket_ganador}")
 
 ganador(ticket_ganador,10000)
-
-
-
-
-
-   
-
-
-
-
-        
-        
-
-
-
-
-
-
-
-
-
